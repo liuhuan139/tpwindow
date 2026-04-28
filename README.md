@@ -1,3 +1,6 @@
+<img width="1211" height="1294" alt="123" src="https://github.com/user-attachments/assets/903838ed-399a-4cf4-8ef6-2e01bd1945a5" />
+
+
 # TopWindow - Android UI Hierarchy Viewer
 
 A GTK4 application to view and inspect Android UI hierarchy dumps.
