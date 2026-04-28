@@ -1,0 +1,10 @@
+Package: topwindow
+Version: 0.1.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Maintainer: TopWindow Team <noreply@example.com>
+Description: Android UI Hierarchy Viewer
+ A tool to view and inspect Android UI layouts using ADB.
+Depends: libgtk-4-1, libxml2, libcairo2, adb
+Installed-Size: 1120

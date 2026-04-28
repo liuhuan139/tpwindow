@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=TopWindow
+Comment=Android UI Hierarchy Viewer
+Icon=com.example.TopWindow
+Exec=topwindow
+Terminal=false
+Categories=Development;Debug;
+Keywords=android;adb;ui;hierarchy;
